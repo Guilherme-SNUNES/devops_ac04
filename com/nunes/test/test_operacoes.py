@@ -1,5 +1,5 @@
 from unittest import TestCase
-from com.vilela.operacoes import Multiplicacao
+from com.nunes.operacoes import Multiplicacao
 
 class TestOperacoes(TestCase):
 
